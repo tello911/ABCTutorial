@@ -156,3 +156,7 @@ C:\Users\user\source\repos\ABCTutorial\obj\Debug\ABC_Tutorial.csproj.CoreCompile
 C:\Users\user\source\repos\ABCTutorial\obj\Debug\ABC_Tutorial.csproj.CopyComplete
 C:\Users\user\source\repos\ABCTutorial\obj\Debug\ABC_Tutorial.dll
 C:\Users\user\source\repos\ABCTutorial\obj\Debug\ABC_Tutorial.pdb
+C:\Users\user\source\repos\ABCTutorial\bin\EntityFramework.dll
+C:\Users\user\source\repos\ABCTutorial\bin\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\ABCTutorial\bin\EntityFramework.xml
+C:\Users\user\source\repos\ABCTutorial\bin\EntityFramework.SqlServer.xml
